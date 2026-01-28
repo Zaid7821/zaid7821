@@ -1,10 +1,18 @@
-# 💫 About Me
+## 💫 About Me
 
-I am an **AI/ML Engineer at IndiGo**, focused on designing and building scalable machine learning solutions for real-world applications. My work involves developing, deploying, and optimizing data-driven systems using **Python, machine learning, and modern AI architectures**.
+I am an **AI/ML Engineer** who builds **end-to-end Generative AI solutions** for real-world production use, including **LLM-based chatbots, retrieval-augmented systems, and agent-driven workflows**, with a strong foundation in software engineering.
 
-I have a strong interest in **ML engineering, agentic AI systems, and production-grade AI solutions**, and I continuously work on improving both system reliability and model performance.
+At **IndiGo**, I work on the **AI Chatbot platform**, where I develop and deploy scalable conversational AI services using **Python, FastAPI, Azure OpenAI, Redis, and RAG-based pipelines**, enabling reliable and low-latency customer interactions at scale.
+
+My focus lies in bridging **intelligent model behavior with robust backend systems**, ensuring AI applications are **maintainable, performant, observable, and dependable** in production environments.
 
 ---
+
+## 🎓 Education
+
+**B.Tech — Computer Science & Engineering**  
+*Specialization: Artificial Intelligence & Machine Learning*
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaid-hussain-4a1206229/)
