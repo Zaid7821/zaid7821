@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 💫 About Me
 
 I am an **AI/ML Engineer at IndiGo**, focused on designing and building scalable machine learning solutions for real-world applications. My work involves developing, deploying, and optimizing data-driven systems using **Python, machine learning, and modern AI architectures**.
